@@ -51,5 +51,5 @@ Actionable Insights: Prioritize stock allocation and exclusive product releases 
 5. Pricing and Profitability Analysis
 Observation: Average price per unit has remained stable, but profit margins vary across products and regions, with some regions showing low profitability despite high sales volumes.
 Actionable Insights: Adjust pricing on low-margin items and consider reducing costs in lower-margin regions to enhance profitability without compromising sales.
-Conclusion
+Conclusion:
 The Adidas Sales Analysis dashboard provides a data-rich perspective on sales, helping to make informed decisions regarding pricing, product focus, and geographical strategies. By leveraging these insights, Adidas can strengthen its competitive positioning, optimize inventory, and enhance profitability across markets.
